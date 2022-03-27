@@ -1,0 +1,1 @@
+Authorization is at the heart of what [[What is Infra|InfraHQ]] provides. We take the authentication completed by an [[IdP]] and apply that to the roles and users in a destination like [[Kubernetes]] or [[AWS]] or [[Azure]], etc.
