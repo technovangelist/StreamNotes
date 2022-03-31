@@ -1,4 +1,8 @@
-## Welcome to GitHub Pages
+## Welcome to Matt's Stream Notes
+
+This is content that Matt talks about when he actually does a stream. It will get published every few minutes automatically. 
+
+[Authentication](Authentication.md)
 
 You can use the [editor on GitHub](https://github.com/technovangelist/StreamNotes/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
