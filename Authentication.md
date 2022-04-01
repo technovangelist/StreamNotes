@@ -12,4 +12,4 @@ Authentication typically provides minimal to no information about whether that u
 
 The actual implementation of Authentication may use one of many different authentication protocols:
 
-![Authentication Protocols](Authentication Protocols.md)
+![Authentication Protocols](protocols/Authentication Protocols.md)
