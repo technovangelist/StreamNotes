@@ -1,1 +1,1 @@
-Authorization is at the heart of what [InfraHQ.md](What is Infra.md) provides. We take the authentication completed by an [IdP.md](IdP.md) and apply that to the roles and users in a destination like **Kubernetes** or **AWS** or **Azure**, etc.
+Authorization is at the heart of what [InfraHQ](What is Infra.md) provides. We take the authentication completed by an [IdP](IdP.md) and apply that to the roles and users in a destination like **Kubernetes** or **AWS** or **Azure**, etc.
