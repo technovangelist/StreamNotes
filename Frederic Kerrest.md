@@ -1,3 +1,3 @@
-COO and Co-founder of [pkb/LIP/Okta.md](pkb/LIP/Okta.md). 
+COO and Co-founder of [Okta](Okta.md). 
 
-was in sales at [pkb/LIP/Salesforce.com.md](pkb/LIP/Salesforce.com.md).
+was in sales at [Salesforce.com](Salesforce.com.md).
